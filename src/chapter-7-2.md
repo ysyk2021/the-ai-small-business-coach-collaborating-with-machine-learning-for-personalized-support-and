@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-===========================================================================================
 
 As small businesses increasingly incorporate AI coaching into their operations, it's important to ensure transparency and accountability in the use of this technology. In this chapter, we will explore the key considerations for managing AI coaching in small business operations.
 

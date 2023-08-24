@@ -1,5 +1,3 @@
-Chapter 6: Implementing AI Coaching in Small Business
-=====================================================
 
 Implementing AI coaching in small businesses can be a daunting task, but it's essential for those seeking to gain a competitive edge and achieve long-term success. In this chapter, we will explore the key considerations and best practices for implementing AI coaching in small business operations.
 

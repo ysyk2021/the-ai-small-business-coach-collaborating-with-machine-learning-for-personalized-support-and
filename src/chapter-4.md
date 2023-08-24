@@ -1,5 +1,3 @@
-Chapter 4: Challenges of AI Coaching
-====================================
 
 As small businesses increasingly turn to artificial intelligence (AI) coaching for personalized support and improvement, there are challenges that need to be taken into account. In this chapter, we will explore the challenges of AI coaching in relation to ethical considerations, legal considerations, and privacy and security concerns.
 

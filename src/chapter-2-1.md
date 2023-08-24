@@ -1,5 +1,3 @@
-Historical Overview of AI Coaching
-========================================================================
 
 Artificial intelligence (AI) coaching has a relatively short history, but it has already made significant advancements in providing personalized support and guidance for small businesses. In this chapter, we will provide a historical overview of AI coaching.
 

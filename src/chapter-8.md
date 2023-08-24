@@ -1,5 +1,3 @@
-Chapter 8: Future of AI Coaching in Small Business
-==================================================
 
 The future of AI coaching in small business is promising, with emerging trends and opportunities for personalized support and improvement. However, there are also potential challenges that must be addressed to ensure that AI-powered coaching tools are developed and used in a responsible and ethical manner. In this chapter, we will discuss the future of AI coaching in small business.
 

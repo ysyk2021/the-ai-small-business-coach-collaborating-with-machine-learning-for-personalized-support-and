@@ -1,5 +1,3 @@
-Privacy and Security Concerns
-===================================================================
 
 As small businesses increasingly turn to AI-powered coaching for personalized support and improvement, there are concerns about privacy and security. In this chapter, we will explore the challenges of AI coaching in relation to privacy and security.
 

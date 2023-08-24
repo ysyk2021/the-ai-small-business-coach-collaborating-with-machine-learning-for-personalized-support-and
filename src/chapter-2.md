@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Coaching
-====================================
 
 Artificial intelligence (AI) coaching is a rapidly evolving field that provides personalized support and guidance for small businesses. In this chapter, we will provide an overview of AI coaching, including its historical development, types, and how it works.
 

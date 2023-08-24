@@ -1,5 +1,3 @@
-Types of AI Coaching
-==========================================================
 
 Artificial intelligence (AI) coaching is a growing field that offers small businesses personalized support and improvement. In this chapter, we will explore the different types of AI coaching available to small businesses.
 

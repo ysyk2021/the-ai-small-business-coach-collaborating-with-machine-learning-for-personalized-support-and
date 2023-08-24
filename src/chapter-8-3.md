@@ -1,5 +1,3 @@
-Preparing for the Future
-============================================================================
 
 AI coaching is rapidly evolving and its potential applications in small business operations are expanding. In this chapter, we will explore the future of AI coaching in small businesses and how they can prepare for the changes ahead.
 

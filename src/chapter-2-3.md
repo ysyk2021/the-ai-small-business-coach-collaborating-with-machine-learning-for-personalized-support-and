@@ -1,5 +1,3 @@
-How AI Coaching Works
-===========================================================
 
 Artificial intelligence (AI) coaching is a powerful tool for small businesses seeking personalized support and improvement. In this chapter, we will explore how AI coaching works and the underlying technologies that enable it.
 

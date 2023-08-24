@@ -1,5 +1,3 @@
-Legal Considerations
-==========================================================
 
 While artificial intelligence (AI) coaching can provide personalized support and guidance for small businesses, there are several legal considerations that must be addressed. In this chapter, we will discuss some of the legal challenges associated with AI coaching.
 

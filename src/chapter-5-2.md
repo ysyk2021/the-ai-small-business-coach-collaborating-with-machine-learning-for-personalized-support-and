@@ -1,5 +1,3 @@
-Marketing and Sales
-=============================================================================
 
 AI coaching has a wide range of applications in small business marketing and sales. In this chapter, we will explore some of the key use cases for AI coaching in these areas.
 

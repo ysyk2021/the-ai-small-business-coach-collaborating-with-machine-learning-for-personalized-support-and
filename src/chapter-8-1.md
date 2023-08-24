@@ -1,5 +1,3 @@
-Emerging Trends
-===================================================================
 
 As artificial intelligence (AI) continues to evolve, the future of AI coaching in small business is promising. In this chapter, we will explore emerging trends in AI coaching that can help small businesses improve their operations and achieve growth.
 

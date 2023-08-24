@@ -1,5 +1,3 @@
-Developing an AI Coaching Strategy
-=========================================================================================
 
 Developing a comprehensive strategy is essential for small businesses seeking to successfully implement AI coaching. In this chapter, we will explore the key considerations and steps involved in developing an effective AI coaching strategy.
 

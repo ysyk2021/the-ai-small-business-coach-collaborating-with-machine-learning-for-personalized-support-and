@@ -1,5 +1,3 @@
-Ethical Considerations
-============================================================
 
 As small businesses increasingly turn to artificial intelligence (AI) coaching for personalized support and improvement, ethical considerations need to be taken into account. In this chapter, we will explore the challenges of AI coaching in relation to ethical considerations.
 

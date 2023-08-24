@@ -1,5 +1,3 @@
-Addressing Potential Bias
-============================================================================
 
 AI coaching has the potential to improve small business operations and drive growth, but it is not immune to biases that can result in unfair or discriminatory outcomes. In this chapter, we will explore how small businesses can address potential bias in AI coaching and ensure fairness in decision-making.
 

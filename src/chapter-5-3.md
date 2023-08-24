@@ -1,5 +1,3 @@
-Operations and Logistics
-==================================================================================
 
 AI coaching has a wide range of applications in small business operations and logistics. In this chapter, we will explore some of the key use cases for AI coaching in these areas.
 

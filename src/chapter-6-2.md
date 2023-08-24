@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-======================================================================================
 
 Resistance to change is a common challenge when implementing new technologies such as AI coaching. In this chapter, we will explore the key strategies for overcoming resistance to change and successfully implementing AI coaching in small businesses.
 

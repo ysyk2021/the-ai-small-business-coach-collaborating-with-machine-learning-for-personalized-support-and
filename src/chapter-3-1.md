@@ -1,5 +1,3 @@
-Enhanced Decision-Making
-============================================================
 
 In today's fast-paced business environment, small businesses need to make data-driven decisions quickly and effectively. Artificial intelligence (AI) coaching has the potential to provide personalized support and improvement for small businesses, leading to enhanced decision-making. In this chapter, we will explore how AI coaching can help small businesses achieve this goal.
 

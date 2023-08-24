@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI Coaching in Small Business
-========================================================
 
 Artificial intelligence (AI) coaching has the potential to provide personalized support and improvement for small businesses. In this chapter, we will explore the applications of AI coaching in small business across different areas.
 

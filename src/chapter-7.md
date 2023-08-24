@@ -1,5 +1,3 @@
-Chapter 7: Managing AI Coaching in Small Business
-=================================================
 
 Effective management of AI coaching is critical for small businesses seeking to leverage this technology to optimize their operations and achieve long-term success. In this chapter, we will explore key considerations for managing AI coaching in small business.
 
