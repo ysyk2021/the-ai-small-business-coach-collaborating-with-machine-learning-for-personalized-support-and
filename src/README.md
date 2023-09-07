@@ -10,3 +10,7 @@ The AI Small Business Coach is not intended to replace human expertise or insigh
 Whether you are a seasoned entrepreneur or a new business owner, The AI Small Business Coach can provide valuable insights and strategies for leveraging the power of AI in your business. We hope this book will serve as a helpful guide for those looking to enhance their small business operations and achieve sustainable growth.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
