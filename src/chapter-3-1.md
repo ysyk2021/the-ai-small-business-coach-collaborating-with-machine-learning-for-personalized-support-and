@@ -1,5 +1,4 @@
-Chapter 13: Enhanced Decision-Making
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into how AI and machine learning contribute to enhanced decision-making for small businesses. These technologies empower businesses with data-driven insights, predictive analytics, and intelligent recommendations, enabling more informed and strategic decision-making processes.
 

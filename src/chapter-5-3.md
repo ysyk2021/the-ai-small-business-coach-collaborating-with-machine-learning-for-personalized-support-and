@@ -1,5 +1,4 @@
-Chapter 6: Operations and Logistics
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role that AI and machine learning play in optimizing operations and logistics for small businesses. We will delve into the ways in which these technologies can streamline processes, enhance efficiency, and contribute to overall business improvement.
 

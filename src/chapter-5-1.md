@@ -1,5 +1,4 @@
-Chapter 10: Financial Management
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role of AI and machine learning in enhancing financial management for small businesses. Leveraging these technologies can streamline financial processes, improve decision-making, and pave the way for sustainable growth and profitability.
 

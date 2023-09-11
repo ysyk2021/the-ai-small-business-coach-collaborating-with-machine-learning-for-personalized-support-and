@@ -1,5 +1,4 @@
-Chapter 6: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical considerations that arise when collaborating with AI and machine learning technologies in the context of small business coaching. While these technologies offer tremendous potential for personalized support and improvement, it is essential to navigate their implementation with a strong ethical framework to ensure fairness, transparency, and responsible use.
 

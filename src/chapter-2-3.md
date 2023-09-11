@@ -1,5 +1,4 @@
-Chapter 3: How AI Coaching Works
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the mechanics of AI coaching, providing an in-depth understanding of how artificial intelligence collaborates with machine learning to offer personalized support and improvement for small businesses.
 

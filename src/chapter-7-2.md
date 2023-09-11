@@ -1,5 +1,4 @@
-Chapter 8: Ensuring Transparency and Accountability
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical aspects of ensuring transparency and accountability when collaborating with AI and machine learning for personalized support and improvement in small businesses. Transparency and accountability are essential to build trust with customers, employees, and stakeholders, and to navigate the ethical and legal implications of AI adoption.
 

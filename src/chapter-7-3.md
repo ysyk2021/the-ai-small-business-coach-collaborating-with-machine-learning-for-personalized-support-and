@@ -1,5 +1,4 @@
-Chapter 9: Addressing Potential Bias
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical issue of addressing potential bias when collaborating with AI and machine learning for personalized support and improvement in small businesses. Recognizing, understanding, and mitigating bias is essential to ensure fair and equitable outcomes.
 

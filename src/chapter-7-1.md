@@ -1,5 +1,4 @@
-Chapter 5: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamental aspects of data management for small businesses that are collaborating with AI and machine learning for personalized support and improvement. Effective data management is essential for harnessing the power of AI and ensuring data-driven decision-making.
 

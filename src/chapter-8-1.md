@@ -1,5 +1,4 @@
-Chapter 5: Emerging Trends in AI for Small Business Coaching
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting and rapidly evolving landscape of artificial intelligence (AI) as it applies to small business coaching. As technology continues to advance, new trends and innovations are reshaping the way small businesses receive personalized support and drive improvement. In this chapter, we will discuss some of the most prominent emerging trends in this field.
 

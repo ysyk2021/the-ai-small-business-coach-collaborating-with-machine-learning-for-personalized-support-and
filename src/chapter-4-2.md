@@ -1,5 +1,4 @@
-Chapter 7: Legal Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of AI and machine learning integration into small businesses, understanding the legal implications and considerations is paramount. This chapter will explore the key legal aspects that small businesses need to address when collaborating with AI systems for personalized support and improvement.
 

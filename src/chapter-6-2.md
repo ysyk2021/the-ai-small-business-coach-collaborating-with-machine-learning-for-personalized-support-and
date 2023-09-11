@@ -1,5 +1,4 @@
-Chapter 5: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for overcoming resistance to change when implementing AI and machine learning solutions in the context of small business coaching. Change, especially when driven by technology, can be met with skepticism and resistance. Understanding these challenges and effectively managing them is essential for successful collaboration between small business owners and AI-driven coaching.
 

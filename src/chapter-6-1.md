@@ -1,5 +1,4 @@
-Chapter 8: Developing an AI Coaching Strategy
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of developing a comprehensive AI coaching strategy for small businesses. Crafting a well-defined strategy is crucial to harness the full potential of AI and machine learning for personalized support and continuous improvement in the context of small business coaching.
 
